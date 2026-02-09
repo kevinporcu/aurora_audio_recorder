@@ -5,6 +5,8 @@ The project is built around the concept of a **Vocal Sphere**: a mobile recordin
 
 Portability in this context is not only related to mobility, but also to **accessibility, flexibility, and ease of use**.
 
+To use directly the web application go to https://kevinporcu.github.io/aurora_audio_recorder/
+
 ---
 ## IMPORTANT NOTE
 
