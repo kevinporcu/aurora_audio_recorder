@@ -6,6 +6,12 @@ The project is built around the concept of a **Vocal Sphere**: a mobile recordin
 Portability in this context is not only related to mobility, but also to **accessibility, flexibility, and ease of use**.
 
 ---
+## IMPORTANT NOTE
+
+Google Drive access is currently limited because the application is in testing mode. To enable Drive integration, users must contact the project owner via email to be added as authorized testers.
+The owners' email are at the end of the ReadMe.
+
+---
 
 ## Concept
 
@@ -63,5 +69,12 @@ This feature enables simple **backup, sharing, and cross-device access** directl
 ## Project Context
 
 Aurora Audio Recorder was developed as an **academic project**.
+
+---
+
+# Owners:
+
+Gabriele Berrini (gabriele.berrini@mail.polimi.it)
+Kevin Porcu (kevin.porcu@mail.polimi.it)
 
 
