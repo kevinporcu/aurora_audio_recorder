@@ -74,7 +74,7 @@ Aurora Audio Recorder was developed as an **academic project**.
 
 # Owners:
 
-Gabriele Berrini (gabriele.berrini@mail.polimi.it)
+Gabriele Berrini (gabriele.berrini@mail.polimi.it) & 
 Kevin Porcu (kevin.porcu@mail.polimi.it)
 
 
